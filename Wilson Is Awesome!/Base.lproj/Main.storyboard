@@ -16,8 +16,8 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <textField opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="Wilson Is Awesome!" borderStyle="bezel" textAlignment="center" minimumFontSize="34" translatesAutoresizingMaskIntoConstraints="NO" id="gOz-7U-c7Y">
-                                <rect key="frame" x="0.0" y="0.0" width="375" height="183"/>
+                            <textField opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="GiddyUp!" borderStyle="bezel" textAlignment="center" minimumFontSize="34" translatesAutoresizingMaskIntoConstraints="NO" id="gOz-7U-c7Y">
+                                <rect key="frame" x="0.0" y="224" width="375" height="183"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="textColor" red="0.51977287370000003" green="0.085849130080000002" blue="0.1773695421" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="38"/>
